@@ -588,7 +588,6 @@ f();									// Запускаем полученную функцию
 
 ## Полезные ссылки
 
-SpiderMonkey [Parser API](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API)
 
 
 # Язык для работы с матрицами MATRIX
