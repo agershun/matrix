@@ -12,6 +12,7 @@
 ### Содержимое репозитория
 * [README.md](README.md) - этот файл
 * [jison pres.pptx](jison pres.pptx) - презентация выступления
+* (jison kharkivjs.pptx)[jison kharkivjs.pptx]- презентация на KharkivJS'2015
 * [ARTICLE.md](ARTICLE.md) - проект статьи
 * [matrix0.jison](matrix0.jison) - пустой файл для грамматик
 * [matrix1.jison](matrix1.jison) - лексемы языка МАТ
